@@ -1,2 +1,0 @@
-17-06-27 17:56:41  CRITICAL  Flow                 Uncaught exception #1355480641 in line 295 of C:\wamp64\www\tutorial\Packages\Framework\TYPO3.Flow\Classes\TYPO3\Flow\Core\Booting\Scripts.php: The system cannot find the path specified. - See also: 201706271756349d8cc0.txt
-17-06-27 18:07:37  CRITICAL  Flow                 Uncaught exception #1355480641 in line 295 of C:\wamp64\www\tutorial\Packages\Framework\TYPO3.Flow\Classes\TYPO3\Flow\Core\Booting\Scripts.php: The system cannot find the path specified. - See also: 201706271807296e4621.txt
